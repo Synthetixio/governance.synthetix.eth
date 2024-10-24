@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_snx_v3_governance=globalThis.webpackChunk_snx_v3_governance||[]).push([[556],{556:(a,e,n)=>{n.d(e,{take:()=>s.q,takeUntil:()=>k.R});var s=n(56718),k=n(20114)}}]);
